@@ -18,8 +18,17 @@
 
 3.Basic UI Components:
 ToolBar 
+
+
 ![image](https://github.com/user-attachments/assets/e1634c07-19ad-45a3-94ba-2ee37916d047)
 
 Events :
+
+
 ![image](https://github.com/user-attachments/assets/9414c4ef-5009-42ee-bd50-95afda11cba0)
+
+
+BoxLayout with Buttons :
+
+![image](https://github.com/user-attachments/assets/0062abd8-f65f-41f0-9c70-122cb5d480c8)
 
