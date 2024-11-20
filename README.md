@@ -15,3 +15,11 @@
 #we are printing the state of the widgets by sending signal to it
 
 ![image](https://github.com/user-attachments/assets/4f10cc31-3c3f-4fe4-bcc7-7314bded6414)
+
+3.Basic UI Components:
+ToolBar 
+![image](https://github.com/user-attachments/assets/e1634c07-19ad-45a3-94ba-2ee37916d047)
+
+Events :
+![image](https://github.com/user-attachments/assets/9414c4ef-5009-42ee-bd50-95afda11cba0)
+
