@@ -32,3 +32,10 @@ BoxLayout with Buttons :
 
 ![image](https://github.com/user-attachments/assets/0062abd8-f65f-41f0-9c70-122cb5d480c8)
 
+
+Adding QPixmap in QLabel :
+
+
+![image](https://github.com/user-attachments/assets/863aaa7a-9613-4839-b6df-35b6a0907a4f)
+
+
