@@ -1,4 +1,5 @@
-# pyqt6
+# pyqt6 Practical Examples : 
+
 1.Window Creation
 #We will stat from the very basic this covers how to create a simple window and add label on it
 1.Using QWidget
@@ -37,5 +38,10 @@ Adding QPixmap in QLabel :
 
 
 ![image](https://github.com/user-attachments/assets/863aaa7a-9613-4839-b6df-35b6a0907a4f)
+
+ComboBox:
+![image](https://github.com/user-attachments/assets/f324b0ce-7dba-4089-bf46-f14ac4b68fee)
+
+
 
 
